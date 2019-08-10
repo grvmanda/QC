@@ -1,0 +1,7 @@
+1. stm32
+2. motor controllers
+3. motors
+4. accelerometer
+5. gyro
+6. imu
+7. 

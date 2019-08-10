@@ -1,0 +1,2 @@
+1. First board intended purely for software testing without any motors. 
+2. I considered DRV8302 for motor control. Maybe revisit this later?
