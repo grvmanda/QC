@@ -1,2 +1,6 @@
 1. First board intended purely for software testing without any motors. 
 2. I considered DRV8302 for motor control. Maybe revisit this later?
+3. This might be my primary source for developing the ESCs for each of the motors:
+	http://www.ti.com/tool/TIDA-00916
+4. DRV10983 - another motor driver of interest
+5. ESC uC - STM32L431CCT6 (497-17827-ND)
