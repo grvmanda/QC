@@ -1,2 +1,7 @@
 # ignore all eagle temp files
 eagle/esc/esc.b#*
+
+
+
+# some extras
+../examples/
